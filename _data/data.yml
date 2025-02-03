@@ -5,11 +5,11 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Daeheon Lee
-  tagline: Digital Circuit Design Engineer
+  tagline: M.S. candidate of CSDL
   avatar: y-0040970-03-01.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
