@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: bigheon99@naver.com
   phone: 010 7550 2417
-  timezone: Asia/Pohang # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  #timezone: Asia/Pohang # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   website:  http://csdl.postech.ac.kr #Include the full website URL, including "http://" or "https://".
   #linkedin: alandoe
   #xing: alandoe
@@ -52,11 +52,14 @@ sidebar:
       link:
 
 
+    - item: Bowling
+      link:
+
 career-profile:
   title: Career Profile
   summary: |
     I received the B.S. degree in Electrical Engineering in 2025 from Hanyang University.
-    I am currently M.S. candidate in Electrical Engineering from CSDL lab in Pohang University of Science and Technology(POSTECH).    
+    I am currently M.S. candidate in Electrical Engineering from CSDL lab in Pohang University of Science and Technology (POSTECH).    
 education:
   title: Education
   info:
@@ -78,7 +81,7 @@ experiences:
   info:
   - role: Research Intern
     time: 2024.07~2024.12
-    company: KIST(Korea Institute of Science and Technology)
+    company: KIST (Korea Institute of Science and Technology)
     #details: |
      
  
